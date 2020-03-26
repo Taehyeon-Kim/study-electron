@@ -1,0 +1,20 @@
+{
+  "name": "study-electron",
+  "version": "1.0.0",
+  "description": "📚 electron tutorials",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taehyeon-Kim/study-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taehyeon-Kim/study-electron/issues"
+  },
+  "homepage": "https://github.com/Taehyeon-Kim/study-electron#readme"
+}
