@@ -19,3 +19,9 @@
    > main.js, index.html, package.json은 같은 디렉토리에 위치해야 함
 
 6. <code>npm start</code> : 파일 실행
+
+---
+
+🧩 **20200329 이해**
+
+<code>main.js / index.html / package.json 이 세가지의 구성을 이해한다면 app을 생성하는 것은 간단하다</code>
