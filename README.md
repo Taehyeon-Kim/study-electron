@@ -25,3 +25,9 @@
 🧩 **20200329 이해**
 
 <code>main.js / index.html / package.json 이 세가지의 구성을 이해한다면 app을 생성하는 것은 간단하다</code>
+
+---
+
+🧩 **20200329 간단한 만들기(1)**
+
+<code>monaco-editor를 이용해 브라우저 상에 vs-code와 같은 코드에디터를 띄우는 어플리케이션을 생성</code>
